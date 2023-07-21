@@ -1,0 +1,2666 @@
+.Usermanagement_Usermanagement {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255, 255, 255, 1.00);
+}
+
+.Usermanagement_Usermanagement .Group65 {
+	position: absolute;
+	left: -0.83px;
+	top: 0px;
+	width: 1435.07px;
+	height: 73.86999999999999px;
+}
+
+.Usermanagement_Usermanagement .Group65 .Rectangle3049 {
+	position: absolute;
+	left: 0.83px;
+	top: 0px;
+	width: 1434.24px;
+	height: 73.86999999999999px;
+	background: linear-gradient(180deg, rgba(0, 0, 0, 1.00) 0.0%, rgba(0, 0, 0, 1.00) 100.0%);
+}
+
+.Usermanagement_Usermanagement .Group65 .Rectangle3014 {
+	position: absolute;
+	left: 180.94px;
+	top: 13.28px;
+	width: 332px;
+	height: 46.48px;
+	background: rgba(255, 255, 255, 1.00);
+	border-radius: 41.5px;
+}
+
+/* Media queries for responsive design */
+@media only screen and (max-width: 768px) {
+	.Usermanagement_Usermanagement .Group65 {
+		width: 100%;
+		height: auto;
+	}
+
+	.Usermanagement_Usermanagement .Group65 .Rectangle3049 {
+		width: 100%;
+	}
+
+	.Usermanagement_Usermanagement .Group65 .Rectangle3014 {
+		left: 5%;
+		width: 90%;
+	}
+}
+
+
+
+.Usermanagement_Usermanagement .Group65 .IconsaxLinearmicrophone2 {
+	position: absolute;
+	left: 468.95px;
+	top: 22.41px;
+	width: 30.709999999999997px;
+	height: 29.88px;
+}
+
+.Usermanagement_Usermanagement .Group65 .IconsaxLinearmicrophone2 .Vector {
+	position: absolute;
+	left: 10.236675109863281px;
+	top: 2.4899999999999998px;
+	width: 33.33336082664696%;
+	height: 56.25%;
+}
+
+.Usermanagement_Usermanagement .Group65 .IconsaxLinearmicrophone2 .Vector_1 {
+	position: absolute;
+	left: 5.5661773681640625px;
+	top: 7.697206420898437px;
+	width: 63.74998350401182%;
+	height: 65.90627034505209%;
+}
+
+.Usermanagement_Usermanagement .Group65 .SearchHere {
+	position: absolute;
+	left: 239.04px;
+	top: 22.41px;
+	width: 167.66px;
+	height: 31.54px;
+	display: flex;
+	align-items: center;
+	color: rgba(0, 0, 0, 1.00);
+	font-family: Mulish;
+	font-size: 19.919999999999998px;
+	font-weight: 700;
+	line-height: 24.999599113464356px;
+}
+
+/* Media queries for responsive design */
+@media only screen and (max-width: 768px) {
+	.Usermanagement_Usermanagement .Group65 .IconsaxLinearmicrophone2 {
+		left: 5%;
+		top: 100px;
+		width: 20%;
+	}
+
+	.Usermanagement_Usermanagement .Group65 .SearchHere {
+		left: 5%;
+		top: 150px;
+		width: 90%;
+	}
+}
+
+
+.Usermanagement_Usermanagement {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255, 255, 255, 1.00);
+}
+
+
+.Usermanagement_Usermanagement .Group65 .BuySell {
+	position: absolute;
+	left: 696.37px;
+	top: 27.389999999999997px;
+	width: 93.78999999999999px;
+	height: 24.9px;
+	display: flex;
+	align-items: center;
+	color: rgba(255, 255, 255, 1.00);
+	font-family: Mulish;
+	font-size: 19.919999999999998px;
+	font-weight: 600;
+	line-height: 24.999599113464356px;
+}
+
+.Usermanagement_Usermanagement .Group65 .Market {
+	position: absolute;
+	left: 830px;
+	top: 27.389999999999997px;
+	width: 65.57px;
+	height: 24.9px;
+	display: flex;
+	align-items: center;
+	color: rgba(255, 255, 255, 1.00);
+	font-family: Mulish;
+	font-size: 19.919999999999998px;
+	font-weight: 600;
+	line-height: 24.999599113464356px;
+}
+
+.Usermanagement_Usermanagement .Group65 .Trade {
+	position: absolute;
+	left: 933.75px;
+	top: 27.389999999999997px;
+	width: 53.949999999999996px;
+	height: 24.9px;
+	display: flex;
+	align-items: center;
+	color: rgba(255, 255, 255, 1.00);
+	font-family: Mulish;
+	font-size: 19.919999999999998px;
+	font-weight: 600;
+	line-height: 24.999599113464356px;
+}
+
+.Usermanagement_Usermanagement .Group65 .Earn {
+	position: absolute;
+	left: 1026.71px;
+	top: 27.389999999999997px;
+	width: 43.16px;
+	height: 24.9px;
+	display: flex;
+	align-items: center;
+	color: rgba(255, 255, 255, 1.00);
+	font-family: Mulish;
+	font-size: 19.919999999999998px;
+	font-weight: 600;
+	line-height: 24.999599113464356px;
+}
+
+.Usermanagement_Usermanagement .Group65 .Futures {
+	position: absolute;
+	left: 1108.8799999999999px;
+	top: 27.389999999999997px;
+	width: 70.55px;
+	height: 24.9px;
+	display: flex;
+	align-items: center;
+	color: rgba(255, 255, 255, 1.00);
+	font-family: Mulish;
+	font-size: 19.919999999999998px;
+	font-weight: 600;
+	line-height: 24.999599113464356px;
+}
+/* Media queries for responsive design */
+@media only screen and (max-width: 768px) {
+	.Usermanagement_Usermanagement .Group65 .BuySell {
+		left: 5%;
+		top: 100px;
+		width: 30%;
+	}
+
+	.Usermanagement_Usermanagement .Group65 .Market {
+		left: 40%;
+		top: 100px;
+		width: 30%;
+	}
+
+	.Usermanagement_Usermanagement .Group65 .Trade {
+		left: 5%;
+		top: 150px;
+		width: 30%;
+	}
+
+	.Usermanagement_Usermanagement .Group65 .Earn {
+		left: 40%;
+		top: 150px;
+		width: 30%;
+	}
+
+	.Usermanagement_Usermanagement .Group65 .Futures {
+		left: 5%;
+		top: 200px;
+		width: 30%;
+	}
+}
+/* Default styles for the elements */
+
+.Usermanagement_Usermanagement .Group65 .Group1 {
+	position: absolute;
+	left: 1218.44px;
+	top: 27.389999999999997px;
+	width: 39.01px;
+	height: 24.9px;
+}
+
+.Usermanagement_Usermanagement .Group65 .Group1 .NFT {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 39.01px;
+	height: 24.9px;
+	display: flex;
+	align-items: center;
+	color: rgba(255, 255, 255, 1.00);
+	font-family: Mulish;
+	font-size: 19.919999999999998px;
+	font-weight: 600;
+	line-height: 24.999599113464356px;
+}
+
+.Usermanagement_Usermanagement .Group65 .Rectangle45 {
+	position: absolute;
+	left: 1291.48px;
+	top: 14.94px;
+	width: 50.629999999999995px;
+	height: 48.97px;
+	background: rgba(255, 255, 255, 1.00);
+	border-radius: 16.599999999999998px;
+}
+
+.Usermanagement_Usermanagement .Group65 .Rectangle46 {
+	position: absolute;
+	left: 1372.82px;
+	top: 17.43px;
+	width: 44.82px;
+	height: 43.16px;
+	background: linear-gradient(0deg, rgba(255, 255, 255, 1.00), rgba(255, 255, 255, 1.00));
+	border-radius: 16.599999999999998px;
+	background-size: cover;
+}
+
+/* Media query for screens smaller than 768px */
+@media only screen and (max-width: 767px) {
+	.Usermanagement_Usermanagement .Group65 .Group1 {
+		position: static;
+		width: 100%;
+		height: auto;
+	}
+
+	.Usermanagement_Usermanagement .Group65 .Group1 .NFT {
+		position: static;
+		width: 100%;
+		height: auto;
+		text-align: center;
+	}
+
+	.Usermanagement_Usermanagement .Group65 .Rectangle45 {
+		position: static;
+		width: 100%;
+		height: auto;
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+
+	.Usermanagement_Usermanagement .Group65 .Rectangle46 {
+		position: static;
+		width: 100%;
+		height: auto;
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+}
+
+/* Media query for screens between 768px and 1023px */
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+	.Usermanagement_Usermanagement .Group65 .Group1 {
+		position: absolute;
+		left: 50%;
+		transform: translateX(-50%);
+		top: 20px;
+		width: 80%;
+		height: auto;
+	}
+
+	.Usermanagement_Usermanagement .Group65 .Group1 .NFT {
+		position: static;
+		width: 100%;
+		height: auto;
+		text-align: center;
+	}
+
+	.Usermanagement_Usermanagement .Group65 .Rectangle45 {
+		position: absolute;
+		left: 50%;
+		transform: translateX(-50%);
+		top: 80px;
+		width: 80%;
+		height: auto;
+		border-radius: 10px;
+	}
+
+	.Usermanagement_Usermanagement .Group65 .Rectangle46 {
+		position: absolute;
+		left: 50%;
+		transform: translateX(-50%);
+		top: 180px;
+		width: 80%;
+		height: auto;
+		border-radius: 10px;
+	}
+}
+
+/* Media query for screens larger than 1023px */
+@media only screen and (min-width: 1024px) {
+	.Usermanagement_Usermanagement .Group65 .Group1 {
+		position: absolute;
+		left: 1218.44px;
+		top: 27.389999999999997px;
+		width: 39.01px;
+		height: 24.9px;
+	}
+
+	.Usermanagement_Usermanagement .Group65 .Group1 .NFT {
+		position: absolute;
+		left: 0px;
+		top: 0px;
+		width: 39.01px;
+		height: 24.9px;
+		display: flex;
+		align-items: center;
+		color: rgba(255, 255, 255, 1.00);
+		font-family: Mulish;
+		font-size: 19.919999999999998px;
+		font-weight: 600;
+		line-height: 24.999599113464356px;
+	}
+
+	.Usermanagement_Usermanagement .Group65 .Rectangle45 {
+		position: absolute;
+		left: 1291.48px;
+		top: 14.94px;
+		width: 50.629999999999995px;
+		height: 48.97px;
+		background: rgba(255, 255, 255, 1.00);
+		border-radius: 16.599999999999998px;
+	}
+
+	.Usermanagement_Usermanagement .Group65 .Rectangle46 {
+		position: absolute;
+		left: 1372.82px;
+		top: 17.43px;
+		width: 44.82px;
+		height: 43.16px;
+		background: linear-gradient(0deg, rgba(255, 255, 255, 1.00), rgba(255, 255, 255, 1.00));
+		border-radius: 16.599999999999998px;
+		background-size: cover;
+	}
+}
+.Usermanagement_Usermanagement .Group65 .IconsaxLinearnotification {
+	position: absolute;
+	left: 1300.61px;
+	top: 22.41px;
+	width: 33.199999999999996px;
+	height: 33.199999999999996px;
+}
+
+.Usermanagement_Usermanagement .Group65 .IconsaxLinearnotification .Vector_2 {
+	position: absolute;
+	left: 5.497432861328125px;
+	top: 4.0254797363281245px;
+	width: 66.84371948242188%;
+	height: 70.29167175292969%;
+}
+
+.Usermanagement_Usermanagement .Group65 .IconsaxLinearnotification .Vector_3 {
+	position: absolute;
+	left: 14.068510131835938px;
+	top: 2.6836700439453125px;
+	width: 15.416717529296875%;
+	height: 5.24993896484375%;
+}
+
+.Usermanagement_Usermanagement .Group65 .IconsaxLinearnotification .Vector_4 {
+	position: absolute;
+	left: 12.477659912109374px;
+	top: 26.366329956054685px;
+	width: 25%;
+	height: 12.5%;
+}
+
+@media only screen and (max-width: 768px) {
+	.Usermanagement_Usermanagement .Group65 .IconsaxLinearnotification {
+		left: 50%;
+		transform: translateX(-50%);
+		width: 20px;
+		height: 20px;
+	}
+
+	.Usermanagement_Usermanagement .Group65 .IconsaxLinearnotification .Vector_2 {
+		left: 5%;
+		top: 5%;
+		width: 90%;
+		height: 90%;
+	}
+
+	.Usermanagement_Usermanagement .Group65 .IconsaxLinearnotification .Vector_3 {
+		left: 20%;
+		top: 2%;
+		width: 60%;
+		height: 2%;
+	}
+
+	.Usermanagement_Usermanagement .Group65 .IconsaxLinearnotification .Vector_4 {
+		left: 15%;
+		top: 80%;
+		width: 30%;
+		height: 5%;
+	}
+}
+/* Default styles for all screen sizes */
+.Usermanagement_Usermanagement .Group65 .Ellipse14 {
+	position: absolute;
+	left: 1405.1899999999998px;
+	top: 16.599999999999998px;
+	width: 14.94px;
+	height: 14.94px;
+	background: rgba(19, 251, 42, 1.00);
+	border-radius: 50%;
+}
+
+.Usermanagement_Usermanagement .Group65 .image8 {
+	position: absolute;
+	left: 0px;
+	top: 2.4899999999999998px;
+	width: 185.09px;
+	height: 71.38px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Usermanagement_Usermanagement .Group65 .CopyTrading {
+	position: absolute;
+	left: 546.97px;
+	top: 27.389999999999997px;
+	width: 124.5px;
+	height: 24.9px;
+	display: flex;
+	align-items: center;
+	color: rgba(255, 255, 255, 1.00);
+	font-family: Mulish;
+	font-size: 19.919999999999998px;
+	font-weight: 600;
+	line-height: 24.999599113464356px;
+}
+/* Styles for screens with a maximum width of 768px */
+@media screen and (max-width: 768px) {
+	.Usermanagement_Usermanagement .Group65 .Ellipse14 {
+		left: 10%;
+		top: 10%;
+		width: 10%;
+		height: auto;
+	}
+
+	.Usermanagement_Usermanagement .Group65 .image8 {
+		position: relative;
+		left: auto;
+		top: auto;
+		width: 100%;
+		height: auto;
+	}
+
+	.Usermanagement_Usermanagement .Group65 .CopyTrading {
+		position: relative;
+		left: auto;
+		top: auto;
+		width: 100%;
+		height: auto;
+		text-align: center;
+		font-size: 16px;
+		line-height: 20px;
+	}
+}
+
+/* Default styles for all screen sizes */
+
+
+
+.Usermanagement_Usermanagement .UserManagement {
+	position: absolute;
+	left: 86.32px;
+	top: 118.69px;
+	width: 349.43px;
+	height: 49.8px;
+	display: flex;
+	align-items: center;
+	color: rgba(0, 0, 0, 1.00);
+	font-family: Mulish;
+	font-size: 39.839999999999996px;
+	font-weight: 700;
+	line-height: 49.99919822692871px;
+}
+
+.Usermanagement_Usermanagement .AllUsers {
+	position: absolute;
+	left: 89.64px;
+	top: 211.64999999999998px;
+	width: 124.5px;
+	height: 37.35px;
+	display: flex;
+	align-items: center;
+	color: rgba(0, 0, 0, 1.00);
+	font-family: Mulish;
+	font-size: 29.88px;
+	font-weight: 600;
+	line-height: 37.499400253295896px;
+}
+
+.Usermanagement_Usermanagement ._30Total {
+	position: absolute;
+	left: 252.32px;
+	top: 217.45999999999998px;
+	width: 102.08999999999999px;
+	height: 24.9px;
+	display: flex;
+	align-items: center;
+	color: rgba(0, 0, 0, 1.00);
+	font-family: Mulish;
+	font-size: 19.919999999999998px;
+	font-weight: 700;
+	line-height: 24.999599113464356px;
+}
+
+.Usermanagement_Usermanagement ._3Inactive {
+	position: absolute;
+	left: 366.85999999999996px;
+	top: 217.45999999999998px;
+	width: 92.13px;
+	height: 24.9px;
+	display: flex;
+	align-items: center;
+	color: rgba(0, 0, 0, 1.00);
+	font-family: Mulish;
+	font-size: 19.919999999999998px;
+	font-weight: 700;
+	line-height: 24.999599113464356px;
+}
+
+/* Styles for screens with a maximum width of 768px */
+@media screen and (max-width: 768px) {
+	.Usermanagement_Usermanagement .UserManagement {
+		position: relative;
+		left: auto;
+		top: auto;
+		width: 100%;
+		height: auto;
+		text-align: center;
+		font-size: 32px;
+		line-height: 40px;
+	}
+
+	.Usermanagement_Usermanagement .AllUsers {
+		position: relative;
+		left: auto;
+		top: auto;
+		width: 100%;
+		height: auto;
+		text-align: center;
+		font-size: 24px;
+		line-height: 30px;
+	}
+
+	.Usermanagement_Usermanagement ._30Total {
+		position: relative;
+		left: auto;
+		top: auto;
+		width: 50%;
+		height: auto;
+		text-align: center;
+		font-size: 16px;
+		line-height: 20px;
+	}
+
+	.Usermanagement_Usermanagement ._3Inactive {
+		position: relative;
+		left: auto;
+		top: auto;
+		width: 50%;
+		height: auto;
+		text-align: center;
+		font-size: 16px;
+		line-height: 20px;
+	}
+}
+.Usermanagement_Usermanagement .Line222 {
+	position: absolute;
+	left: 233.23px;
+	top: 202.51999999999998px;
+	width: 0px;
+	height: 58.099999999999994px;
+	border: 1px solid rgba(0, 0, 0, 1);
+}
+
+.Usermanagement_Usermanagement .Rectangle3137 {
+	position: absolute;
+	left: 0px;
+	top: 264.77px;
+	width: 1434.24px;
+	height: 83px;
+	background: rgba(199, 246, 9, 0.48);
+}
+
+.Usermanagement_Usermanagement .Rectangle3138 {
+	position: absolute;
+	left: 18.259999999999998px;
+	top: 279.71px;
+	width: 391.76px;
+	height: 53.12px;
+	border-radius: 33.199999999999996px;
+	border: 2px solid rgba(0, 0, 0, 1);
+	box-sizing: border-box;
+}
+
+.Usermanagement_Usermanagement .Name {
+	position: absolute;
+	left: 63.91px;
+	top: 285.52px;
+	width: 92.96px;
+	height: 41.5px;
+	display: flex;
+	align-items: center;
+	color: rgba(0, 0, 0, 1.00);
+	font-family: Mulish;
+	font-size: 33.199999999999996px;
+	font-weight: 600;
+	line-height: 41.66600063323975px;
+}
+
+@media (max-width: 768px) {
+	.Usermanagement_Usermanagement .Line222 {
+		top: 20%;
+		height: 4%;
+	}
+
+	.Usermanagement_Usermanagement .Rectangle3137 {
+		top: 28%;
+		height: 5%;
+	}
+
+	.Usermanagement_Usermanagement .Rectangle3138 {
+		top: 33%;
+		height: 3%;
+		width: 50%;
+	}
+
+	.Usermanagement_Usermanagement .Name {
+		top: 34%;
+		font-size: 3.5vw;
+	}
+}
+.Usermanagement_Usermanagement .IconsaxLineararrowdown2 {
+	position: absolute;
+	left: 337.8105319213867px;
+	top: 293.81986068725587px;
+	width: 33.41021026611328px;
+	height: 33.41021026611328px;
+}
+
+.Usermanagement_Usermanagement .IconsaxLineararrowdown2 .Vector_5 {
+	position: absolute;
+	left: 5.71374755859375px;
+	top: 11.036583557128905px;
+	width: 65.77009125721464%;
+	height: 29.80286864707787%;
+}
+@media (max-width: 768px) {
+	.Usermanagement_Usermanagement .IconsaxLineararrowdown2 {
+		width: 24px;
+		height: 24px;
+	}
+
+	.Usermanagement_Usermanagement .IconsaxLineararrowdown2 .Vector_5 {
+		width: 100%;
+		height: 100%;
+	}
+}
+
+@media (max-width: 480px) {
+	.Usermanagement_Usermanagement .IconsaxLineararrowdown2 {
+		width: 16px;
+		height: 16px;
+	}
+
+	.Usermanagement_Usermanagement .IconsaxLineararrowdown2 .Vector_5 {
+		width: 100%;
+		height: 100%;
+	}
+}
+
+.Usermanagement_Usermanagement .Line223 {
+	position: absolute;
+	left: 126.99px;
+	top: 420.81px;
+	width: 1307.25px;
+	height: 0px;
+	border: 1px solid rgba(204.00000303983688, 204.00000303983688, 204.00000303983688, 1);
+}
+
+.Usermanagement_Usermanagement .Line224 {
+	position: absolute;
+	left: 126.99px;
+	top: 506.29999999999995px;
+	width: 1307.25px;
+	height: 0px;
+	border: 1px solid rgba(204.00000303983688, 204.00000303983688, 204.00000303983688, 1);
+}
+
+.Usermanagement_Usermanagement .Line225 {
+	position: absolute;
+	left: 126.99px;
+	top: 591.79px;
+	width: 1307.25px;
+	height: 0px;
+	border: 1px solid rgba(204.00000303983688, 204.00000303983688, 204.00000303983688, 1);
+}
+
+.Usermanagement_Usermanagement .Line226 {
+	position: absolute;
+	left: 126.99px;
+	top: 677.28px;
+	width: 1307.25px;
+	height: 0px;
+	border: 1px solid rgba(204.00000303983688, 204.00000303983688, 204.00000303983688, 1);
+}
+
+.Usermanagement_Usermanagement .Line227 {
+	position: absolute;
+	left: 126.99px;
+	top: 762.77px;
+	width: 1307.25px;
+	height: 0px;
+	border: 1px solid rgba(204.00000303983688, 204.00000303983688, 204.00000303983688, 1);
+}
+
+.Usermanagement_Usermanagement .Line228 {
+	position: absolute;
+	left: 126.99px;
+	top: 848.26px;
+	width: 1307.25px;
+	height: 0px;
+	border: 1px solid rgba(204.00000303983688, 204.00000303983688, 204.00000303983688, 1);
+}
+@media (max-width: 768px) {
+
+	.Usermanagement_Usermanagement .Line223,
+	.Usermanagement_Usermanagement .Line224,
+	.Usermanagement_Usermanagement .Line225,
+	.Usermanagement_Usermanagement .Line226,
+	.Usermanagement_Usermanagement .Line227,
+	.Usermanagement_Usermanagement .Line228 {
+		width: 50%;
+	}
+}
+
+@media (max-width: 480px) {
+
+	.Usermanagement_Usermanagement .Line223,
+	.Usermanagement_Usermanagement .Line224,
+	.Usermanagement_Usermanagement .Line225,
+	.Usermanagement_Usermanagement .Line226,
+	.Usermanagement_Usermanagement .Line227,
+	.Usermanagement_Usermanagement .Line228 {
+		width: 33%;
+	}
+}
+
+
+.Usermanagement_Usermanagement .Rectangle3139 {
+	position: absolute;
+	left: 41.5px;
+	top: 365.2px;
+	width: 44.82px;
+	height: 42.33px;
+	border-radius: 8.299999999999999px;
+	border: 3px solid rgba(0, 0, 0, 1);
+	box-sizing: border-box;
+}
+
+.Usermanagement_Usermanagement .Rectangle3140 {
+	position: absolute;
+	left: 41.5px;
+	top: 445.71px;
+	width: 44.82px;
+	height: 42.33px;
+	border-radius: 8.299999999999999px;
+	border: 3px solid rgba(0, 0, 0, 1);
+	box-sizing: border-box;
+}
+
+.Usermanagement_Usermanagement .Rectangle3141 {
+	position: absolute;
+	left: 41.5px;
+	top: 531.1999999999999px;
+	width: 44.82px;
+	height: 42.33px;
+	border-radius: 8.299999999999999px;
+	border: 3px solid rgba(0, 0, 0, 1);
+	box-sizing: border-box;
+}
+
+
+@media (max-width: 768px) {
+
+	.Usermanagement_Usermanagement .Rectangle3139,
+	.Usermanagement_Usermanagement .Rectangle3140,
+	.Usermanagement_Usermanagement .Rectangle3141 {
+		width: 20%;
+		height: 8%;
+		left: 5%;
+		padding: 20px;
+	}
+}
+.Usermanagement_Usermanagement .Role {
+	position: absolute;
+	left: 486.38px;
+	top: 293.82px;
+	width: 42.33px;
+	height: 24.9px;
+	display: flex;
+	align-items: center;
+	color: rgba(0, 0, 0, 1.00);
+	font-family: Mulish;
+	font-size: 19.919999999999998px;
+	font-weight: 700;
+	line-height: 24.999599113464356px;
+}
+
+.Usermanagement_Usermanagement .Rectangle3142 {
+	position: absolute;
+	left: 41.5px;
+	top: 615.86px;
+	width: 44.82px;
+	height: 42.33px;
+	border-radius: 8.299999999999999px;
+	border: 3px solid rgba(0, 0, 0, 1);
+	box-sizing: border-box;
+}
+
+.Usermanagement_Usermanagement .Rectangle3143 {
+	position: absolute;
+	left: 41.5px;
+	top: 696.37px;
+	width: 44.82px;
+	height: 42.33px;
+	border-radius: 8.299999999999999px;
+	border: 3px solid rgba(0, 0, 0, 1);
+	box-sizing: border-box;
+}
+
+.Usermanagement_Usermanagement .Rectangle3144 {
+	position: absolute;
+	left: 41.5px;
+	top: 786.01px;
+	width: 44.82px;
+	height: 42.33px;
+	border-radius: 8.299999999999999px;
+	border: 3px solid rgba(0, 0, 0, 1);
+	box-sizing: border-box;
+}
+
+.Usermanagement_Usermanagement .Rectangle3152 {
+	position: absolute;
+	left: 41.5px;
+	top: 866.52px;
+	width: 44.82px;
+	height: 42.33px;
+	border-radius: 8.299999999999999px;
+	border: 3px solid rgba(0, 0, 0, 1);
+	box-sizing: border-box;
+}
+
+@media screen and (max-width: 768px) {
+	.Usermanagement_Usermanagement .Role {
+		width: 50%;
+		font-size: 3vw;
+		line-height: 4vw;
+	}
+
+	.Usermanagement_Usermanagement .Rectangle3142,
+	.Usermanagement_Usermanagement .Rectangle3143,
+	.Usermanagement_Usermanagement .Rectangle3144,
+	.Usermanagement_Usermanagement .Rectangle3152 {
+		width: 20%;
+		height: 10%;
+	}
+}
+
+
+.Usermanagement_Usermanagement .Ellipse50 {
+	position: absolute;
+	left: 110.39px;
+	top: 358.56px;
+	width: 55.61px;
+	height: 55.61px;
+	background: linear-gradient(0deg, rgba(217, 217, 217, 1.00), rgba(217, 217, 217, 1.00));
+	border-radius: 50%;
+	background-size: cover;
+}
+
+.Usermanagement_Usermanagement .Ellipse51 {
+	position: absolute;
+	left: 110.39px;
+	top: 442.39px;
+	width: 55.61px;
+	height: 55.61px;
+	background: linear-gradient(0deg, rgba(217, 217, 217, 1.00), rgba(217, 217, 217, 1.00));
+	border-radius: 50%;
+	background-size: cover;
+}
+
+.Usermanagement_Usermanagement .Ellipse52 {
+	position: absolute;
+	left: 110.39px;
+	top: 526.22px;
+	width: 55.61px;
+	height: 55.61px;
+	background: linear-gradient(0deg, rgba(217, 217, 217, 1.00), rgba(217, 217, 217, 1.00));
+	border-radius: 50%;
+	background-size: cover;
+}
+
+.Usermanagement_Usermanagement .Ellipse53 {
+	position: absolute;
+	left: 110.39px;
+	top: 610.05px;
+	width: 55.61px;
+	height: 55.61px;
+	background: linear-gradient(0deg, rgba(217, 217, 217, 1.00), rgba(217, 217, 217, 1.00));
+	border-radius: 50%;
+	background-size: cover;
+}
+
+.Usermanagement_Usermanagement .Ellipse54 {
+	position: absolute;
+	left: 110.39px;
+	top: 693.88px;
+	width: 55.61px;
+	height: 55.61px;
+	background: linear-gradient(0deg, rgba(217, 217, 217, 1.00), rgba(217, 217, 217, 1.00));
+	border-radius: 50%;
+	background-size: cover;
+}
+
+.Usermanagement_Usermanagement .Ellipse55 {
+	position: absolute;
+	left: 110.39px;
+	top: 777.7099999999999px;
+	width: 55.61px;
+	height: 55.61px;
+	background: linear-gradient(0deg, rgba(217, 217, 217, 1.00), rgba(217, 217, 217, 1.00));
+	border-radius: 50%;
+	background-size: cover;
+}
+
+.Usermanagement_Usermanagement .Ellipse56 {
+	position: absolute;
+	left: 110.39px;
+	top: 861.54px;
+	width: 55.61px;
+	height: 55.61px;
+	background: linear-gradient(0deg, rgba(217, 217, 217, 1.00), rgba(217, 217, 217, 1.00));
+	border-radius: 50%;
+	background-size: cover;
+}
+
+@media screen and (max-width: 768px) {
+
+	.Usermanagement_Usermanagement .Ellipse50,
+	.Usermanagement_Usermanagement .Ellipse51,
+	.Usermanagement_Usermanagement .Ellipse52,
+	.Usermanagement_Usermanagement .Ellipse53,
+	.Usermanagement_Usermanagement .Ellipse54,
+	.Usermanagement_Usermanagement .Ellipse55,
+	.Usermanagement_Usermanagement .Ellipse56 {
+		width: 15%;
+		height: 15%;
+	}
+
+	.Usermanagement_Usermanagement .Ellipse50 {
+		top: 10%;
+	}
+
+	.Usermanagement_Usermanagement .Ellipse51 {
+		top: 15%;
+	}
+
+	.Usermanagement_Usermanagement .Ellipse52 {
+		top: 20%;
+	}
+
+	.Usermanagement_Usermanagement .Ellipse53 {
+		top: 25%;
+	}
+
+	.Usermanagement_Usermanagement .Ellipse54 {
+		top: 30%;
+	}
+
+	.Usermanagement_Usermanagement .Ellipse55 {
+		top: 35%;
+	}
+
+	.Usermanagement_Usermanagement .Ellipse56 {
+		top: 40%;
+	}
+}
+.Usermanagement_Usermanagement .Admin {
+	position: absolute;
+	left: 184.26px;
+	top: 361.04999999999995px;
+	width: 63.08px;
+	height: 24.9px;
+	display: flex;
+	align-items: center;
+	color: rgba(0, 0, 0, 1.00);
+	font-family: Mulish;
+	font-size: 19.919999999999998px;
+	font-weight: 700;
+	line-height: 24.999599113464356px;
+}
+
+.Usermanagement_Usermanagement .Admin_1 {
+	position: absolute;
+	left: 184.26px;
+	top: 444.88px;
+	width: 63.08px;
+	height: 24.9px;
+	display: flex;
+	align-items: center;
+	color: rgba(0, 0, 0, 1.00);
+	font-family: Mulish;
+	font-size: 19.919999999999998px;
+	font-weight: 700;
+	line-height: 24.999599113464356px;
+}
+@media (max-width: 768px) {
+
+	.Usermanagement_Usermanagement .Admin,
+	.Usermanagement_Usermanagement .Admin_1 {
+		font-size: 12px;
+	}
+}
+
+@media (max-width: 480px) {
+
+	.Usermanagement_Usermanagement .Admin,
+	.Usermanagement_Usermanagement .Admin_1 {
+		font-size: 10px;
+	}
+}
+
+/* Media queries for larger screens */
+
+.Usermanagement_Usermanagement .AlexGave {
+	position: absolute;
+	left: 184.26px;
+	top: 528.7099999999999px;
+	width: 96.28px;
+	height: 24.9px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 19.919999999999998px;
+	font-weight: 700;
+	line-height: 24.999599113464356px;
+}
+.Usermanagement_Usermanagement .SaraJones {
+	position: absolute;
+	left: 184.26px;
+	top: 612.54px;
+	width: 102.92px;
+	height: 24.9px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 19.919999999999998px;
+	font-weight: 700;
+	line-height: 24.999599113464356px;
+}
+.Usermanagement_Usermanagement .Maichel {
+	position: absolute;
+	left: 184.26px;
+	top: 696.37px;
+	width: 73.03999999999999px;
+	height: 24.9px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 19.919999999999998px;
+	font-weight: 700;
+	line-height: 24.999599113464356px;
+}
+.Usermanagement_Usermanagement .RobertSwan {
+	position: absolute;
+	left: 184.26px;
+	top: 780.1999999999999px;
+	width: 125.33px;
+	height: 24.9px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 19.919999999999998px;
+	font-weight: 700;
+	line-height: 24.999599113464356px;
+}
+.Usermanagement_Usermanagement .Nelson {
+	position: absolute;
+	left: 184.26px;
+	top: 864.03px;
+	width: 65.57px;
+	height: 24.9px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 19.919999999999998px;
+	font-weight: 700;
+	line-height: 24.999599113464356px;
+}
+.Usermanagement_Usermanagement .Saany543acmecom {
+	position: absolute;
+	left: 180.94px;
+	top: 392.59px;
+	width: 139.44px;
+	height: 16.599999999999998px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 600;
+	line-height: 16.666399936676026px;
+}
+.Usermanagement_Usermanagement .Saany543acmecom_1 {
+	position: absolute;
+	left: 180.94px;
+	top: 476.41999999999996px;
+	width: 139.44px;
+	height: 16.599999999999998px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 600;
+	line-height: 16.666399936676026px;
+}
+.Usermanagement_Usermanagement .Saany543acmecom_2 {
+	position: absolute;
+	left: 180.94px;
+	top: 560.25px;
+	width: 139.44px;
+	height: 16.599999999999998px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 600;
+	line-height: 16.666399936676026px;
+}
+.Usermanagement_Usermanagement .Saany543acmecom_3 {
+	position: absolute;
+	left: 180.94px;
+	top: 644.0799999999999px;
+	width: 139.44px;
+	height: 16.599999999999998px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 600;
+	line-height: 16.666399936676026px;
+}
+.Usermanagement_Usermanagement .Saany543acmecom_4 {
+	position: absolute;
+	left: 180.94px;
+	top: 727.91px;
+	width: 139.44px;
+	height: 16.599999999999998px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 600;
+	line-height: 16.666399936676026px;
+}
+.Usermanagement_Usermanagement .Saany543acmecom_5 {
+	position: absolute;
+	left: 180.94px;
+	top: 811.74px;
+	width: 139.44px;
+	height: 16.599999999999998px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 600;
+	line-height: 16.666399936676026px;
+}
+.Usermanagement_Usermanagement .Saany543acmecom_6 {
+	position: absolute;
+	left: 180.94px;
+	top: 895.5699999999999px;
+	width: 139.44px;
+	height: 16.599999999999998px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 600;
+	line-height: 16.666399936676026px;
+}
+@media (max-width: 768px) {
+
+	.Usermanagement_Usermanagement .AlexGave,
+	.Usermanagement_Usermanagement .SaraJones,
+	.Usermanagement_Usermanagement .Maichel,
+	.Usermanagement_Usermanagement .RobertSwan,
+	.Usermanagement_Usermanagement .Nelson,
+	.Usermanagement_Usermanagement .Saany543acmecom,
+	.Usermanagement_Usermanagement .Saany543acmecom_1,
+	.Usermanagement_Usermanagement .Saany543acmecom_2,
+	.Usermanagement_Usermanagement .Saany543acmecom_3,
+	.Usermanagement_Usermanagement .Saany543acmecom_4,
+	.Usermanagement_Usermanagement .Saany543acmecom_5,
+	.Usermanagement_Usermanagement .Saany543acmecom_6 {
+		position: static;
+		left: auto;
+		top: auto;
+		width: 100%;
+		height: auto;
+		display: block;
+		font-size: 16px;
+		font-weight: 500;
+		line-height: 1.5;
+	}
+}
+.Usermanagement_Usermanagement .Rectangle3145 {
+	position: absolute;
+	left: 448.2px;
+	top: 361.04999999999995px;
+	width: 117.86px;
+	height: 39.839999999999996px;
+	background: rgba(0,0,0,1.00);
+	border-radius: 33.199999999999996px;
+}
+.Usermanagement_Usermanagement .Rectangle3146 {
+	position: absolute;
+	left: 448.2px;
+	top: 444.88px;
+	width: 117.86px;
+	height: 39.839999999999996px;
+	background: rgba(0,0,0,1.00);
+	border-radius: 33.199999999999996px;
+}
+.Usermanagement_Usermanagement .Rectangle3153 {
+	position: absolute;
+	left: 581px;
+	top: 444.88px;
+	width: 100.42999999999999px;
+	height: 39.839999999999996px;
+	border-radius: 33.199999999999996px;
+	border: 2px solid rgba(198.60000640153885,246.0000005364418,9.000000413507223,1);
+	box-sizing: border-box;
+}
+.Usermanagement_Usermanagement .Rectangle3156 {
+	position: absolute;
+	left: 581px;
+	top: 361.88px;
+	width: 100.42999999999999px;
+	height: 39.839999999999996px;
+	border-radius: 33.199999999999996px;
+	border: 2px solid rgba(198.60000640153885,246.0000005364418,9.000000413507223,1);
+	box-sizing: border-box;
+}
+.Usermanagement_Usermanagement .Rectangle3154 {
+	position: absolute;
+	left: 696.37px;
+	top: 444.88px;
+	width: 99.6px;
+	height: 39.839999999999996px;
+	border-radius: 33.199999999999996px;
+	border: 2px solid rgba(198.60000640153885,246.0000005364418,9.000000413507223,1);
+	box-sizing: border-box;
+}
+.Usermanagement_Usermanagement .Rectangle3147 {
+	position: absolute;
+	left: 448.2px;
+	top: 528.7099999999999px;
+	width: 117.86px;
+	height: 39.839999999999996px;
+	background: rgba(0,0,0,1.00);
+	border-radius: 33.199999999999996px;
+}
+@media (min-width: 768px) and (max-width: 992px) {
+
+	.Usermanagement_Usermanagement .Rectangle3145,
+	.Usermanagement_Usermanagement .Rectangle3146,
+	.Usermanagement_Usermanagement .Rectangle3153,
+	.Usermanagement_Usermanagement .Rectangle3156,
+	.Usermanagement_Usermanagement .Rectangle3154,
+	.Usermanagement_Usermanagement .Rectangle3147 {
+		width: 50%;
+		left: 25%;
+		border-radius: 16px;
+		border: 2px solid rgba(198.60000640153885, 246.0000005364418, 9.000000413507223, 1);
+	}
+}
+.Usermanagement_Usermanagement .Rectangle3148 {
+	position: absolute;
+	left: 448.2px;
+	top: 612.54px;
+	width: 117.86px;
+	height: 39.839999999999996px;
+	background: rgba(0,0,0,1.00);
+	border-radius: 33.199999999999996px;
+}
+.Usermanagement_Usermanagement .Rectangle3149 {
+	position: absolute;
+	left: 448.2px;
+	top: 696.37px;
+	width: 117.86px;
+	height: 39.839999999999996px;
+	background: rgba(0,0,0,1.00);
+	border-radius: 33.199999999999996px;
+}
+.Usermanagement_Usermanagement .Rectangle3150 {
+	position: absolute;
+	left: 448.2px;
+	top: 780.1999999999999px;
+	width: 117.86px;
+	height: 39.839999999999996px;
+	background: rgba(0,0,0,1.00);
+	border-radius: 33.199999999999996px;
+}
+.Usermanagement_Usermanagement .Rectangle3151 {
+	position: absolute;
+	left: 448.2px;
+	top: 864.03px;
+	width: 117.86px;
+	height: 39.839999999999996px;
+	background: rgba(0,0,0,1.00);
+	border-radius: 33.199999999999996px;
+}
+@media (max-width: 768px) {
+
+	.Usermanagement_Usermanagement .Rectangle3148,
+	.Usermanagement_Usermanagement .Rectangle3149,
+	.Usermanagement_Usermanagement .Rectangle3150,
+	.Usermanagement_Usermanagement .Rectangle3151 {
+		width: 80%;
+	}
+}
+
+@media (max-width: 480px) {
+
+	.Usermanagement_Usermanagement .Rectangle3148,
+	.Usermanagement_Usermanagement .Rectangle3149,
+	.Usermanagement_Usermanagement .Rectangle3150,
+	.Usermanagement_Usermanagement .Rectangle3151 {
+		width: 60%;
+	}
+}
+.Usermanagement_Usermanagement .Admin_2 {
+	position: absolute;
+	left: 480.57px;
+	top: 371.01px;
+	width: 52.29px;
+	height: 20.75px;
+	display: flex;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+.Usermanagement_Usermanagement .Admin_3 {
+	position: absolute;
+	left: 480.57px;
+	top: 454.84px;
+	width: 52.29px;
+	height: 20.75px;
+	display: flex;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+@media (max-width: 768px) {
+
+	.Usermanagement_Usermanagement .Admin_2,
+	.Usermanagement_Usermanagement .Admin_3 {
+		font-size: 12px;
+	}
+}
+
+@media (max-width: 480px) {
+
+	.Usermanagement_Usermanagement .Admin_2,
+	.Usermanagement_Usermanagement .Admin_3 {
+		font-size: 10px;
+	}
+}
+.Usermanagement_Usermanagement .Member {
+	position: absolute;
+	left: 473.92999999999995px;
+	top: 538.67px;
+	width: 64.74px;
+	height: 20.75px;
+	display: flex;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+.Usermanagement_Usermanagement .Member_1 {
+	position: absolute;
+	left: 475.59px;
+	top: 620.01px;
+	width: 64.74px;
+	height: 20.75px;
+	display: flex;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+.Usermanagement_Usermanagement .Member_2 {
+	position: absolute;
+	left: 475.59px;
+	top: 704.67px;
+	width: 64.74px;
+	height: 20.75px;
+	display: flex;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+.Usermanagement_Usermanagement .Member_3 {
+	position: absolute;
+	left: 475.59px;
+	top: 790.99px;
+	width: 64.74px;
+	height: 20.75px;
+	display: flex;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+.Usermanagement_Usermanagement .Member_4 {
+	position: absolute;
+	left: 475.59px;
+	top: 875.65px;
+	width: 64.74px;
+	height: 20.75px;
+	display: flex;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+@media (max-width: 768px) {
+
+	.Usermanagement_Usermanagement .Member,
+	.Usermanagement_Usermanagement .Member_1,
+	.Usermanagement_Usermanagement .Member_2,
+	.Usermanagement_Usermanagement .Member_3,
+	.Usermanagement_Usermanagement .Member_4 {
+		font-size: 12px;
+	}
+}
+
+@media (max-width: 480px) {
+
+	.Usermanagement_Usermanagement .Member,
+	.Usermanagement_Usermanagement .Member_1,
+	.Usermanagement_Usermanagement .Member_2,
+	.Usermanagement_Usermanagement .Member_3,
+	.Usermanagement_Usermanagement .Member_4 {
+		font-size: 10px;
+	}
+}
+.Usermanagement_Usermanagement .Deactivate {
+	position: absolute;
+	left: 879.8px;
+	top: 370.18px;
+	width: 86.32px;
+	height: 20.75px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+.Usermanagement_Usermanagement .Deactivate_1 {
+	position: absolute;
+	left: 879.8px;
+	top: 454.01px;
+	width: 86.32px;
+	height: 20.75px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+.Usermanagement_Usermanagement .Deactivate_2 {
+	position: absolute;
+	left: 879.8px;
+	top: 537.8399999999999px;
+	width: 86.32px;
+	height: 20.75px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+.Usermanagement_Usermanagement .Deactivate_3 {
+	position: absolute;
+	left: 879.8px;
+	top: 621.67px;
+	width: 86.32px;
+	height: 20.75px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+.Usermanagement_Usermanagement .Deactivate_4 {
+	position: absolute;
+	left: 879.8px;
+	top: 705.5px;
+	width: 86.32px;
+	height: 20.75px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+.Usermanagement_Usermanagement .Deactivate_5 {
+	position: absolute;
+	left: 879.8px;
+	top: 789.3299999999999px;
+	width: 86.32px;
+	height: 20.75px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+.Usermanagement_Usermanagement .Deactivate_6 {
+	position: absolute;
+	left: 879.8px;
+	top: 873.16px;
+	width: 86.32px;
+	height: 20.75px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+@media (max-width: 768px) {
+
+	.Usermanagement_Usermanagement .Deactivate,
+	.Usermanagement_Usermanagement .Deactivate_1,
+	.Usermanagement_Usermanagement .Deactivate_2,
+	.Usermanagement_Usermanagement .Deactivate_3,
+	.Usermanagement_Usermanagement .Deactivate_4,
+	.Usermanagement_Usermanagement .Deactivate_5,
+	.Usermanagement_Usermanagement .Deactivate_6 {
+		font-size: 12px;
+	}
+}
+
+@media (max-width: 480px) {
+
+	.Usermanagement_Usermanagement .Deactivate,
+	.Usermanagement_Usermanagement .Deactivate_1,
+	.Usermanagement_Usermanagement .Deactivate_2,
+	.Usermanagement_Usermanagement .Deactivate_3,
+	.Usermanagement_Usermanagement .Deactivate_4,
+	.Usermanagement_Usermanagement .Deactivate_5,
+	.Usermanagement_Usermanagement .Deactivate_6 {
+		font-size: 10px;
+	}
+}
+.Usermanagement_Usermanagement .Suspend {
+	position: absolute;
+	left: 1027.54px;
+	top: 370.18px;
+	width: 68.89px;
+	height: 20.75px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+.Usermanagement_Usermanagement .Suspend_1 {
+	position: absolute;
+	left: 1027.54px;
+	top: 454.01px;
+	width: 68.89px;
+	height: 20.75px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+.Usermanagement_Usermanagement .Suspend_2 {
+	position: absolute;
+	left: 1027.54px;
+	top: 537.8399999999999px;
+	width: 68.89px;
+	height: 20.75px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+.Usermanagement_Usermanagement .Suspend_3 {
+	position: absolute;
+	left: 1027.54px;
+	top: 621.67px;
+	width: 68.89px;
+	height: 20.75px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+.Usermanagement_Usermanagement .Suspend_4 {
+	position: absolute;
+	left: 1027.54px;
+	top: 705.5px;
+	width: 68.89px;
+	height: 20.75px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+.Usermanagement_Usermanagement .Suspend_5 {
+	position: absolute;
+	left: 1027.54px;
+	top: 789.3299999999999px;
+	width: 68.89px;
+	height: 20.75px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+.Usermanagement_Usermanagement .Suspend_6 {
+	position: absolute;
+	left: 1027.54px;
+	top: 873.16px;
+	width: 68.89px;
+	height: 20.75px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+.Usermanagement_Usermanagement .ResetPassword {
+	position: absolute;
+	left: 1157.85px;
+	top: 370.18px;
+	width: 127.82px;
+	height: 20.75px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+@media (max-width: 768px) {
+
+	.Usermanagement_Usermanagement .Suspend,
+	.Usermanagement_Usermanagement .Suspend_1,
+	.Usermanagement_Usermanagement .Suspend_2,
+	.Usermanagement_Usermanagement .Suspend_3,
+	.Usermanagement_Usermanagement .Suspend_4,
+	.Usermanagement_Usermanagement .Suspend_5,
+	.Usermanagement_Usermanagement .Suspend_6 {
+		width: 100%;
+		height: 15px;
+	}
+}
+.Usermanagement_Usermanagement .ResetPassword_1 {
+	position: absolute;
+	left: 1157.85px;
+	top: 454.01px;
+	width: 127.82px;
+	height: 20.75px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+.Usermanagement_Usermanagement .ResetPassword_2 {
+	position: absolute;
+	left: 1157.85px;
+	top: 537.8399999999999px;
+	width: 127.82px;
+	height: 20.75px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+.Usermanagement_Usermanagement .ResetPassword_3 {
+	position: absolute;
+	left: 1157.85px;
+	top: 621.67px;
+	width: 127.82px;
+	height: 20.75px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+.Usermanagement_Usermanagement .ResetPassword_4 {
+	position: absolute;
+	left: 1157.85px;
+	top: 705.5px;
+	width: 127.82px;
+	height: 20.75px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+.Usermanagement_Usermanagement .ResetPassword_5 {
+	position: absolute;
+	left: 1157.85px;
+	top: 789.3299999999999px;
+	width: 127.82px;
+	height: 20.75px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+.Usermanagement_Usermanagement .ResetPassword_6 {
+	position: absolute;
+	left: 1157.85px;
+	top: 873.16px;
+	width: 127.82px;
+	height: 20.75px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+@media (max-width: 768px) {
+
+	.Usermanagement_Usermanagement .ResetPassword,
+	.Usermanagement_Usermanagement .ResetPassword_1,
+	.Usermanagement_Usermanagement .ResetPassword_2,
+	.Usermanagement_Usermanagement .ResetPassword_3,
+	.Usermanagement_Usermanagement .ResetPassword_4,
+	.Usermanagement_Usermanagement .ResetPassword_5,
+	.Usermanagement_Usermanagement .ResetPassword_6 {
+		width: 100%;
+		height: 15px;
+	}
+}
+.Usermanagement_Usermanagement .Delete {
+	position: absolute;
+	left: 1347.09px;
+	top: 370.18px;
+	width: 50.629999999999995px;
+	height: 20.75px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+.Usermanagement_Usermanagement .Delete_1 {
+	position: absolute;
+	left: 1347.09px;
+	top: 454.01px;
+	width: 50.629999999999995px;
+	height: 20.75px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+.Usermanagement_Usermanagement .Delete_2 {
+	position: absolute;
+	left: 1347.09px;
+	top: 537.8399999999999px;
+	width: 50.629999999999995px;
+	height: 20.75px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+.Usermanagement_Usermanagement .Delete_3 {
+	position: absolute;
+	left: 1347.09px;
+	top: 621.67px;
+	width: 50.629999999999995px;
+	height: 20.75px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+.Usermanagement_Usermanagement .Delete_4 {
+	position: absolute;
+	left: 1347.09px;
+	top: 705.5px;
+	width: 50.629999999999995px;
+	height: 20.75px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+.Usermanagement_Usermanagement .Delete_5 {
+	position: absolute;
+	left: 1347.09px;
+	top: 789.3299999999999px;
+	width: 50.629999999999995px;
+	height: 20.75px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+.Usermanagement_Usermanagement .Delete_6 {
+	position: absolute;
+	left: 1347.09px;
+	top: 873.16px;
+	width: 50.629999999999995px;
+	height: 20.75px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+@media (max-width: 768px) {
+
+	.Usermanagement_Usermanagement .Delete,
+	.Usermanagement_Usermanagement .Delete_1,
+	.Usermanagement_Usermanagement .Delete_2,
+	.Usermanagement_Usermanagement .Delete_3,
+	.Usermanagement_Usermanagement .Delete_4,
+	.Usermanagement_Usermanagement .Delete_5,
+	.Usermanagement_Usermanagement .Delete_6 {
+		width: 100%;
+		height: 15px;
+	}
+}
+.Usermanagement_Usermanagement .IconsaxLineararrowrotateright {
+	position: absolute;
+	left: 1128.8px;
+	top: 370.18px;
+	width: 19.919999999999998px;
+	height: 19.919999999999998px;
+}
+.Usermanagement_Usermanagement .IconsaxLineararrowrotateright .Vector_6 {
+	position: absolute;
+	left: 2.7638888549804688px;
+	top: 1.66px;
+	width: 72.24998474121094%;
+	height: 83.33333333333334%;
+}
+.Usermanagement_Usermanagement .IconsaxLineararrowrotateright_1 {
+	position: absolute;
+	left: 1128.8px;
+	top: 454.01px;
+	width: 19.919999999999998px;
+	height: 19.919999999999998px;
+}
+.Usermanagement_Usermanagement .IconsaxLineararrowrotateright_1 .Vector_7 {
+	position: absolute;
+	left: 2.7638888549804688px;
+	top: 1.66px;
+	width: 72.24998474121094%;
+	height: 83.33333333333334%;
+}
+.Usermanagement_Usermanagement .IconsaxLineararrowrotateright_2 {
+	position: absolute;
+	left: 1128.8px;
+	top: 537.8399999999999px;
+	width: 19.919999999999998px;
+	height: 19.919999999999998px;
+}
+.Usermanagement_Usermanagement .IconsaxLineararrowrotateright_2 .Vector_8 {
+	position: absolute;
+	left: 2.7638888549804688px;
+	top: 1.66px;
+	width: 72.24998474121094%;
+	height: 83.33333333333334%;
+}
+.Usermanagement_Usermanagement .IconsaxLineararrowrotateright_3 {
+	position: absolute;
+	left: 1128.8px;
+	top: 621.67px;
+	width: 19.919999999999998px;
+	height: 19.919999999999998px;
+}
+.Usermanagement_Usermanagement .IconsaxLineararrowrotateright_3 .Vector_9 {
+	position: absolute;
+	left: 2.7638888549804688px;
+	top: 1.66px;
+	width: 72.24998474121094%;
+	height: 83.33333333333334%;
+}
+.Usermanagement_Usermanagement .IconsaxLineararrowrotateright_4 {
+	position: absolute;
+	left: 1128.8px;
+	top: 705.5px;
+	width: 19.919999999999998px;
+	height: 19.919999999999998px;
+}
+.Usermanagement_Usermanagement .IconsaxLineararrowrotateright_4 .Vector_10 {
+	position: absolute;
+	left: 2.7638888549804688px;
+	top: 1.66px;
+	width: 72.24998474121094%;
+	height: 83.33333333333334%;
+}
+.Usermanagement_Usermanagement .IconsaxLineararrowrotateright_5 {
+	position: absolute;
+	left: 1128.8px;
+	top: 789.3299999999999px;
+	width: 19.919999999999998px;
+	height: 19.919999999999998px;
+}
+.Usermanagement_Usermanagement .IconsaxLineararrowrotateright_5 .Vector_11 {
+	position: absolute;
+	left: 2.7638888549804688px;
+	top: 1.66px;
+	width: 72.24998474121094%;
+	height: 83.33333333333334%;
+}
+.Usermanagement_Usermanagement .IconsaxLineararrowrotateright_6 {
+	position: absolute;
+	left: 1128.8px;
+	top: 873.16px;
+	width: 19.919999999999998px;
+	height: 19.919999999999998px;
+}
+.Usermanagement_Usermanagement .IconsaxLineararrowrotateright_6 .Vector_12 {
+	position: absolute;
+	left: 2.7638888549804688px;
+	top: 1.66px;
+	width: 72.24998474121094%;
+	height: 83.33333333333334%;
+}
+@media (max-width: 768px) {
+
+	.Usermanagement_Usermanagement .IconsaxLineararrowrotateright,
+	.Usermanagement_Usermanagement .IconsaxLineararrowrotateright_1,
+	.Usermanagement_Usermanagement .IconsaxLineararrowrotateright_2,
+	.Usermanagement_Usermanagement .IconsaxLineararrowrotateright_3,
+	.Usermanagement_Usermanagement .IconsaxLineararrowrotateright_4,
+	.Usermanagement_Usermanagement .IconsaxLineararrowrotateright_5,
+	.Usermanagement_Usermanagement .IconsaxLineararrowrotateright_6 {
+		width: 12px;
+		height: 12px;
+	}
+}
+
+@media (max-width: 480px) {
+
+	.Usermanagement_Usermanagement .IconsaxLineararrowrotateright,
+	.Usermanagement_Usermanagement .IconsaxLineararrowrotateright_1,
+	.Usermanagement_Usermanagement .IconsaxLineararrowrotateright_2,
+	.Usermanagement_Usermanagement .IconsaxLineararrowrotateright_3,
+	.Usermanagement_Usermanagement .IconsaxLineararrowrotateright_4,
+	.Usermanagement_Usermanagement .IconsaxLineararrowrotateright_5,
+	.Usermanagement_Usermanagement .IconsaxLineararrowrotateright_6 {
+		width: 10px;
+		height: 10px;
+	}
+}
+
+.Usermanagement_Usermanagement .IconsaxLineartrash {
+	position: absolute;
+	left: 1318.04px;
+	top: 371.84px;
+	width: 19.919999999999998px;
+	height: 19.919999999999998px;
+}
+.Usermanagement_Usermanagement .IconsaxLineartrash .Vector_13 {
+	position: absolute;
+	left: 2.4899999999999998px;
+	top: 1.66px;
+	width: 75%;
+	height: 83.33333333333334%;
+}
+.Usermanagement_Usermanagement .IconsaxLineartrash_1 {
+	position: absolute;
+	left: 1318.04px;
+	top: 455.66999999999996px;
+	width: 19.919999999999998px;
+	height: 19.919999999999998px;
+}
+.Usermanagement_Usermanagement .IconsaxLineartrash_1 .Vector_14 {
+	position: absolute;
+	left: 2.4899999999999998px;
+	top: 1.66px;
+	width: 75%;
+	height: 83.33333333333334%;
+}
+.Usermanagement_Usermanagement .IconsaxLineartrash_2 {
+	position: absolute;
+	left: 1318.04px;
+	top: 539.5px;
+	width: 19.919999999999998px;
+	height: 19.919999999999998px;
+}
+.Usermanagement_Usermanagement .IconsaxLineartrash_2 .Vector_15 {
+	position: absolute;
+	left: 2.4899999999999998px;
+	top: 1.66px;
+	width: 75%;
+	height: 83.33333333333334%;
+}
+.Usermanagement_Usermanagement .IconsaxLineartrash_3 {
+	position: absolute;
+	left: 1318.04px;
+	top: 623.3299999999999px;
+	width: 19.919999999999998px;
+	height: 19.919999999999998px;
+}
+.Usermanagement_Usermanagement .IconsaxLineartrash_3 .Vector_16 {
+	position: absolute;
+	left: 2.4899999999999998px;
+	top: 1.66px;
+	width: 75%;
+	height: 83.33333333333334%;
+}
+.Usermanagement_Usermanagement .IconsaxLineartrash_4 {
+	position: absolute;
+	left: 1318.04px;
+	top: 707.16px;
+	width: 19.919999999999998px;
+	height: 19.919999999999998px;
+}
+.Usermanagement_Usermanagement .IconsaxLineartrash_4 .Vector_17 {
+	position: absolute;
+	left: 2.4899999999999998px;
+	top: 1.66px;
+	width: 75%;
+	height: 83.33333333333334%;
+}
+.Usermanagement_Usermanagement .IconsaxLineartrash_5 {
+	position: absolute;
+	left: 1318.04px;
+	top: 790.99px;
+	width: 19.919999999999998px;
+	height: 19.919999999999998px;
+}
+.Usermanagement_Usermanagement .IconsaxLineartrash_5 .Vector_18 {
+	position: absolute;
+	left: 2.4899999999999998px;
+	top: 1.66px;
+	width: 75%;
+	height: 83.33333333333334%;
+}
+.Usermanagement_Usermanagement .IconsaxLineartrash_6 {
+	position: absolute;
+	left: 1318.04px;
+	top: 874.8199999999999px;
+	width: 19.919999999999998px;
+	height: 19.919999999999998px;
+}
+.Usermanagement_Usermanagement .IconsaxLineartrash_6 .Vector_19 {
+	position: absolute;
+	left: 2.4899999999999998px;
+	top: 1.66px;
+	width: 75%;
+	height: 83.33333333333334%;
+}
+@media (max-width: 768px) {
+
+	.Usermanagement_Usermanagement .IconsaxLineartrash,
+	.Usermanagement_Usermanagement .IconsaxLineartrash_1,
+	.Usermanagement_Usermanagement .IconsaxLineartrash_2,
+	.Usermanagement_Usermanagement .IconsaxLineartrash_3,
+	.Usermanagement_Usermanagement .IconsaxLineartrash_4,
+	.Usermanagement_Usermanagement .IconsaxLineartrash_5,
+	.Usermanagement_Usermanagement .IconsaxLineartrash_6 {
+		width: 12px;
+		height: 12px;
+	}
+}
+
+@media (max-width: 480px) {
+
+	.Usermanagement_Usermanagement .IconsaxLineartrash,
+	.Usermanagement_Usermanagement .IconsaxLineartrash_1,
+	.Usermanagement_Usermanagement .IconsaxLineartrash_2,
+	.Usermanagement_Usermanagement .IconsaxLineartrash_3,
+	.Usermanagement_Usermanagement .IconsaxLineartrash_4,
+	.Usermanagement_Usermanagement .IconsaxLineartrash_5,
+	.Usermanagement_Usermanagement .IconsaxLineartrash_6 {
+		width: 10px;
+		height: 10px;
+	}
+}
+
+
+
+
+
+.Usermanagement_Usermanagement .IconsaxLinearforbidden {
+	position: absolute;
+	left: 998.4899999999999px;
+	top: 371.84px;
+	width: 19.919999999999998px;
+	height: 19.919999999999998px;
+}
+.Usermanagement_Usermanagement .IconsaxLinearforbidden .Vector_20 {
+	position: absolute;
+	left: 1.66px;
+	top: 1.66px;
+	width: 83.33333333333334%;
+	height: 83.33333333333334%;
+}
+.Usermanagement_Usermanagement .IconsaxLinearforbidden_1 {
+	position: absolute;
+	left: 998.4899999999999px;
+	top: 455.66999999999996px;
+	width: 19.919999999999998px;
+	height: 19.919999999999998px;
+}
+.Usermanagement_Usermanagement .IconsaxLinearforbidden_1 .Vector_21 {
+	position: absolute;
+	left: 1.66px;
+	top: 1.66px;
+	width: 83.33333333333334%;
+	height: 83.33333333333334%;
+}
+.Usermanagement_Usermanagement .IconsaxLinearforbidden_2 {
+	position: absolute;
+	left: 998.4899999999999px;
+	top: 539.5px;
+	width: 19.919999999999998px;
+	height: 19.919999999999998px;
+}
+.Usermanagement_Usermanagement .IconsaxLinearforbidden_2 .Vector_22 {
+	position: absolute;
+	left: 1.66px;
+	top: 1.66px;
+	width: 83.33333333333334%;
+	height: 83.33333333333334%;
+}
+.Usermanagement_Usermanagement .IconsaxLinearforbidden_3 {
+	position: absolute;
+	left: 998.4899999999999px;
+	top: 623.3299999999999px;
+	width: 19.919999999999998px;
+	height: 19.919999999999998px;
+}
+.Usermanagement_Usermanagement .IconsaxLinearforbidden_3 .Vector_23 {
+	position: absolute;
+	left: 1.66px;
+	top: 1.66px;
+	width: 83.33333333333334%;
+	height: 83.33333333333334%;
+}
+.Usermanagement_Usermanagement .IconsaxLinearforbidden_4 {
+	position: absolute;
+	left: 998.4899999999999px;
+	top: 707.16px;
+	width: 19.919999999999998px;
+	height: 19.919999999999998px;
+}
+.Usermanagement_Usermanagement .IconsaxLinearforbidden_4 .Vector_24 {
+	position: absolute;
+	left: 1.66px;
+	top: 1.66px;
+	width: 83.33333333333334%;
+	height: 83.33333333333334%;
+}
+.Usermanagement_Usermanagement .IconsaxLinearforbidden_5 {
+	position: absolute;
+	left: 998.4899999999999px;
+	top: 790.99px;
+	width: 19.919999999999998px;
+	height: 19.919999999999998px;
+}
+.Usermanagement_Usermanagement .IconsaxLinearforbidden_5 .Vector_25 {
+	position: absolute;
+	left: 1.66px;
+	top: 1.66px;
+	width: 83.33333333333334%;
+	height: 83.33333333333334%;
+}
+.Usermanagement_Usermanagement .IconsaxLinearforbidden_6 {
+	position: absolute;
+	left: 998.4899999999999px;
+	top: 874.8199999999999px;
+	width: 19.919999999999998px;
+	height: 19.919999999999998px;
+}
+.Usermanagement_Usermanagement .IconsaxLinearforbidden_6 .Vector_26 {
+	position: absolute;
+	left: 1.66px;
+	top: 1.66px;
+	width: 83.33333333333334%;
+	height: 83.33333333333334%;
+}
+
+
+
+@media (max-width: 768px) {
+
+	.Usermanagement_Usermanagement .IconsaxLinearforbidden,
+	.Usermanagement_Usermanagement .IconsaxLinearforbidden_1,
+	.Usermanagement_Usermanagement .IconsaxLinearforbidden_2,
+	.Usermanagement_Usermanagement .IconsaxLinearforbidden_3,
+	.Usermanagement_Usermanagement .IconsaxLinearforbidden_4,
+	.Usermanagement_Usermanagement .IconsaxLinearforbidden_5,
+	.Usermanagement_Usermanagement .IconsaxLinearforbidden_6 {
+		width: 12px;
+		height: 12px;
+	}
+}
+
+@media (max-width: 480px) {
+
+	.Usermanagement_Usermanagement .IconsaxLinearforbidden,
+	.Usermanagement_Usermanagement .IconsaxLinearforbidden_1,
+	.Usermanagement_Usermanagement .IconsaxLinearforbidden_2,
+	.Usermanagement_Usermanagement .IconsaxLinearforbidden_3,
+	.Usermanagement_Usermanagement .IconsaxLinearforbidden_4,
+	.Usermanagement_Usermanagement .IconsaxLinearforbidden_5,
+	.Usermanagement_Usermanagement .IconsaxLinearforbidden_6 {
+		width: 10px;
+		height: 10px;
+	}
+}
+
+
+.Usermanagement_Usermanagement .IconsaxLinearprofileremove {
+	position: absolute;
+	left: 848.26px;
+	top: 371.84px;
+	width: 19.919999999999998px;
+	height: 19.919999999999998px;
+}
+.Usermanagement_Usermanagement .IconsaxLinearprofileremove .Vector_27 {
+	position: absolute;
+	left: 4.286944427490234px;
+	top: 1.6593984222412108px;
+	width: 59.72919464111328%;
+	height: 82.54467646280924%;
+}
+.Usermanagement_Usermanagement .IconsaxLinearprofileremove_1 {
+	position: absolute;
+	left: 848.26px;
+	top: 455.66999999999996px;
+	width: 19.919999999999998px;
+	height: 19.919999999999998px;
+}
+.Usermanagement_Usermanagement .IconsaxLinearprofileremove_1 .Vector_28 {
+	position: absolute;
+	left: 4.286944427490234px;
+	top: 1.6594000053405762px;
+	width: 59.72919464111328%;
+	height: 82.54467646280924%;
+}
+.Usermanagement_Usermanagement .IconsaxLinearprofileremove_2 {
+	position: absolute;
+	left: 848.26px;
+	top: 539.5px;
+	width: 19.919999999999998px;
+	height: 19.919999999999998px;
+}
+.Usermanagement_Usermanagement .IconsaxLinearprofileremove_2 .Vector_29 {
+	position: absolute;
+	left: 4.286944427490234px;
+	top: 1.6593984222412108px;
+	width: 59.72919464111328%;
+	height: 82.54467646280924%;
+}
+.Usermanagement_Usermanagement .IconsaxLinearprofileremove_3 {
+	position: absolute;
+	left: 848.26px;
+	top: 623.3299999999999px;
+	width: 19.919999999999998px;
+	height: 19.919999999999998px;
+}
+.Usermanagement_Usermanagement .IconsaxLinearprofileremove_3 .Vector_30 {
+	position: absolute;
+	left: 4.286944427490234px;
+	top: 1.6594047546386719px;
+	width: 59.72919464111328%;
+	height: 82.54464467366537%;
+}
+.Usermanagement_Usermanagement .IconsaxLinearprofileremove_4 {
+	position: absolute;
+	left: 848.26px;
+	top: 707.16px;
+	width: 19.919999999999998px;
+	height: 19.919999999999998px;
+}
+.Usermanagement_Usermanagement .IconsaxLinearprofileremove_4 .Vector_31 {
+	position: absolute;
+	left: 4.286944427490234px;
+	top: 1.65939208984375px;
+	width: 59.72919464111328%;
+	height: 82.54470825195312%;
+}
+.Usermanagement_Usermanagement .IconsaxLinearprofileremove_5 {
+	position: absolute;
+	left: 848.26px;
+	top: 790.99px;
+	width: 19.919999999999998px;
+	height: 19.919999999999998px;
+}
+.Usermanagement_Usermanagement .IconsaxLinearprofileremove_5 .Vector_32 {
+	position: absolute;
+	left: 4.286944427490234px;
+	top: 1.65939208984375px;
+	width: 59.72919464111328%;
+	height: 82.54470825195312%;
+}
+.Usermanagement_Usermanagement .IconsaxLinearprofileremove_6 {
+	position: absolute;
+	left: 848.26px;
+	top: 874.8199999999999px;
+	width: 19.919999999999998px;
+	height: 19.919999999999998px;
+}
+.Usermanagement_Usermanagement .IconsaxLinearprofileremove_6 .Vector_33 {
+	position: absolute;
+	left: 4.286944427490234px;
+	top: 1.65939208984375px;
+	width: 59.72919464111328%;
+	height: 82.54470825195312%;
+}
+@media (max-width: 768px) {
+
+	.Usermanagement_Usermanagement .IconsaxLinearprofileremove,
+	.Usermanagement_Usermanagement .IconsaxLinearprofileremove_1,
+	.Usermanagement_Usermanagement .IconsaxLinearprofileremove_2,
+	.Usermanagement_Usermanagement .IconsaxLinearprofileremove_3,
+	.Usermanagement_Usermanagement .IconsaxLinearprofileremove_4,
+	.Usermanagement_Usermanagement .IconsaxLinearprofileremove_5,
+	.Usermanagement_Usermanagement .IconsaxLinearprofileremove_6 {
+		width: 12px;
+		height: 12px;
+	}
+}
+
+@media (max-width: 480px) {
+
+	.Usermanagement_Usermanagement .IconsaxLinearprofileremove,
+	.Usermanagement_Usermanagement .IconsaxLinearprofileremove_1,
+	.Usermanagement_Usermanagement .IconsaxLinearprofileremove_2,
+	.Usermanagement_Usermanagement .IconsaxLinearprofileremove_3,
+	.Usermanagement_Usermanagement .IconsaxLinearprofileremove_4,
+	.Usermanagement_Usermanagement .IconsaxLinearprofileremove_5,
+	.Usermanagement_Usermanagement .IconsaxLinearprofileremove_6 {
+		width: 10px;
+		height: 10px;
+	}
+}
+
+
+.Usermanagement_Usermanagement .Manger {
+	position: absolute;
+	left: 606.73px;
+	top: 454.84px;
+	width: 48.97px;
+	height: 16.599999999999998px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 700;
+	line-height: 16.666399936676026px;
+}
+.Usermanagement_Usermanagement .Manger_1 {
+	position: absolute;
+	left: 606.73px;
+	top: 371.84px;
+	width: 48.97px;
+	height: 16.599999999999998px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 700;
+	line-height: 16.666399936676026px;
+}
+.Usermanagement_Usermanagement .Auditor {
+	position: absolute;
+	left: 722.0999999999999px;
+	top: 454.84px;
+	width: 48.14px;
+	height: 16.599999999999998px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 700;
+	line-height: 16.666399936676026px;
+}
+.Usermanagement_Usermanagement .Inactivefor24days {
+	position: absolute;
+	left: 610.05px;
+	top: 616.6899999999999px;
+	width: 124.5px;
+	height: 16.599999999999998px;
+	display: flex;
+	align-items: center;
+	color: rgba(108,99,255,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 700;
+	line-height: 16.666399936676026px;
+}
+.Usermanagement_Usermanagement .Inactivefor24days_1 {
+	position: absolute;
+	left: 610.05px;
+	top: 876.4799999999999px;
+	width: 124.5px;
+	height: 16.599999999999998px;
+	display: flex;
+	align-items: center;
+	color: rgba(108,99,255,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 700;
+	line-height: 16.666399936676026px;
+}
+.Usermanagement_Usermanagement .Inactivefor24days_2 {
+	position: absolute;
+	left: 610.05px;
+	top: 793.48px;
+	width: 124.5px;
+	height: 16.599999999999998px;
+	display: flex;
+	align-items: center;
+	color: rgba(108,99,255,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 700;
+	line-height: 16.666399936676026px;
+}
+.Usermanagement_Usermanagement .Rectangle3155 {
+	position: absolute;
+	left: 1230.06px;
+	top: 280.53999999999996px;
+	width: 189.23999999999998px;
+	height: 58.099999999999994px;
+	background: rgba(0,0,0,1.00);
+	border-radius: 33.199999999999996px;
+}
+.Usermanagement_Usermanagement .AddUser {
+	position: absolute;
+	left: 1293.97px;
+	top: 292.15999999999997px;
+	width: 103.75px;
+	height: 29.049999999999997px;
+	display: flex;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Mulish;
+	font-size: 23.24px;
+	font-weight: 700;
+	line-height: 29.1661994934082px;
+}
+.Usermanagement_Usermanagement .IconsaxLinearaddcircle {
+	position: absolute;
+	left: 1247.49px;
+	top: 291.33px;
+	width: 33.199999999999996px;
+	height: 33.199999999999996px;
+}
+.Usermanagement_Usermanagement .IconsaxLinearaddcircle .Vector_34 {
+	position: absolute;
+	left: 2.7666497802734376px;
+	top: 2.766675109863281px;
+	width: 83.33328247070312%;
+	height: 83.33332061767578%;
+}
+@media (max-width: 768px) {
+
+	.Usermanagement_Usermanagement .Manger,
+	.Usermanagement_Usermanagement .Manger_1,
+	.Usermanagement_Usermanagement .Auditor,
+	.Usermanagement_Usermanagement .Inactivefor24days,
+	.Usermanagement_Usermanagement .Inactivefor24days_1,
+	.Usermanagement_Usermanagement .Inactivefor24days_2,
+	.Usermanagement_Usermanagement .AddUser,
+	.Usermanagement_Usermanagement .IconsaxLinearaddcircle {
+		font-size: 12px;
+	}
+}
+
+@media (max-width: 480px) {
+
+	.Usermanagement_Usermanagement .Manger,
+	.Usermanagement_Usermanagement .Manger_1,
+	.Usermanagement_Usermanagement .Auditor,
+	.Usermanagement_Usermanagement .Inactivefor24days,
+	.Usermanagement_Usermanagement .Inactivefor24days_1,
+	.Usermanagement_Usermanagement .Inactivefor24days_2,
+	.Usermanagement_Usermanagement .AddUser,
+	.Usermanagement_Usermanagement .IconsaxLinearaddcircle {
+		font-size: 10px;
+	}
+}
